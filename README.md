@@ -1,3 +1,4 @@
+# 此为完整备份XrayR的v0.8.0版本，一键脚本完整安装。我们大家都很尊重XrayR的作者，期待作者回归。
 # XRayR
 A Xray backend framework that can easily support many panels.
 
